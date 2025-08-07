@@ -1,16 +1,18 @@
 class Solution:
     def isPalindrome(self, s: str) -> bool:
-        start = 0
-        end = len(s) - 1
-        while start < end:
-            while start < end and not s[start].isalnum():
-                start += 1
-                s[start]
-            while start < end and not s[end].isalnum():
-                end -= 1
-                s[end]
-            if s[start].lower() != s[end].lower():
+        l, r = 0, len(s) - 1
+
+        while l < r:
+            while l < r and not self.alphaNum(s[l]):
+                l += 1
+            while r > l and not self.alphaNum(s[r]):
+                r -= 1
+            if s[l].lower() != s[r].lower():
                 return False
-            start += 1
-            end -= 1
+            l, r = l + 1, r - 1
         return True
+
+    def alphaNum(self, c):
+        return (ord('A') <= ord(c) <= ord('Z') or
+                ord('a') <= ord(c) <= ord('z') or
+                ord('0') <= ord(c) <= ord('9'))
