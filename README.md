@@ -27,6 +27,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/MohitKhera/LeetCodePractice/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0027-remove-element](https://github.com/MohitKhera/LeetCodePractice/tree/master/0027-remove-element) |
+| [0125-valid-palindrome](https://github.com/MohitKhera/LeetCodePractice/tree/master/0125-valid-palindrome) |
 ## Simulation
 |  |
 | ------- |
@@ -35,6 +36,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/MohitKhera/LeetCodePractice/tree/master/0020-valid-parentheses) |
+| [0125-valid-palindrome](https://github.com/MohitKhera/LeetCodePractice/tree/master/0125-valid-palindrome) |
 | [0242-valid-anagram](https://github.com/MohitKhera/LeetCodePractice/tree/master/0242-valid-anagram) |
 ## Stack
 |  |
