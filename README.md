@@ -11,6 +11,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0027-remove-element](https://github.com/MohitKhera/LeetCodePractice/tree/master/0027-remove-element) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/MohitKhera/LeetCodePractice/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0217-contains-duplicate](https://github.com/MohitKhera/LeetCodePractice/tree/master/0217-contains-duplicate) |
+| [0792-binary-search](https://github.com/MohitKhera/LeetCodePractice/tree/master/0792-binary-search) |
 | [2058-concatenation-of-array](https://github.com/MohitKhera/LeetCodePractice/tree/master/2058-concatenation-of-array) |
 ## Hash Table
 |  |
@@ -57,4 +58,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/MohitKhera/LeetCodePractice/tree/master/0121-best-time-to-buy-and-sell-stock) |
+## Binary Search
+|  |
+| ------- |
+| [0792-binary-search](https://github.com/MohitKhera/LeetCodePractice/tree/master/0792-binary-search) |
 <!---LeetCode Topics End-->
