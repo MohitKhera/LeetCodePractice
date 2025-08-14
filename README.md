@@ -12,6 +12,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/MohitKhera/LeetCodePractice/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0217-contains-duplicate](https://github.com/MohitKhera/LeetCodePractice/tree/master/0217-contains-duplicate) |
 | [0792-binary-search](https://github.com/MohitKhera/LeetCodePractice/tree/master/0792-binary-search) |
+| [1127-last-stone-weight](https://github.com/MohitKhera/LeetCodePractice/tree/master/1127-last-stone-weight) |
 | [2058-concatenation-of-array](https://github.com/MohitKhera/LeetCodePractice/tree/master/2058-concatenation-of-array) |
 ## Hash Table
 |  |
@@ -117,6 +118,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0789-kth-largest-element-in-a-stream](https://github.com/MohitKhera/LeetCodePractice/tree/master/0789-kth-largest-element-in-a-stream) |
+| [1127-last-stone-weight](https://github.com/MohitKhera/LeetCodePractice/tree/master/1127-last-stone-weight) |
 ## Data Stream
 |  |
 | ------- |
