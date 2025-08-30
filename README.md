@@ -52,6 +52,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/MohitKhera/LeetCodePractice/tree/master/0020-valid-parentheses) |
+| [0022-generate-parentheses](https://github.com/MohitKhera/LeetCodePractice/tree/master/0022-generate-parentheses) |
 | [0049-group-anagrams](https://github.com/MohitKhera/LeetCodePractice/tree/master/0049-group-anagrams) |
 | [0125-valid-palindrome](https://github.com/MohitKhera/LeetCodePractice/tree/master/0125-valid-palindrome) |
 | [0242-valid-anagram](https://github.com/MohitKhera/LeetCodePractice/tree/master/0242-valid-anagram) |
@@ -74,6 +75,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Dynamic Programming
 |  |
 | ------- |
+| [0022-generate-parentheses](https://github.com/MohitKhera/LeetCodePractice/tree/master/0022-generate-parentheses) |
 | [0070-climbing-stairs](https://github.com/MohitKhera/LeetCodePractice/tree/master/0070-climbing-stairs) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/MohitKhera/LeetCodePractice/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0747-min-cost-climbing-stairs](https://github.com/MohitKhera/LeetCodePractice/tree/master/0747-min-cost-climbing-stairs) |
@@ -180,4 +182,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0128-longest-consecutive-sequence](https://github.com/MohitKhera/LeetCodePractice/tree/master/0128-longest-consecutive-sequence) |
+## Backtracking
+|  |
+| ------- |
+| [0022-generate-parentheses](https://github.com/MohitKhera/LeetCodePractice/tree/master/0022-generate-parentheses) |
 <!---LeetCode Topics End-->
