@@ -17,6 +17,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0217-contains-duplicate](https://github.com/MohitKhera/LeetCodePractice/tree/master/0217-contains-duplicate) |
 | [0238-product-of-array-except-self](https://github.com/MohitKhera/LeetCodePractice/tree/master/0238-product-of-array-except-self) |
 | [0347-top-k-frequent-elements](https://github.com/MohitKhera/LeetCodePractice/tree/master/0347-top-k-frequent-elements) |
+| [0739-daily-temperatures](https://github.com/MohitKhera/LeetCodePractice/tree/master/0739-daily-temperatures) |
 | [0747-min-cost-climbing-stairs](https://github.com/MohitKhera/LeetCodePractice/tree/master/0747-min-cost-climbing-stairs) |
 | [0792-binary-search](https://github.com/MohitKhera/LeetCodePractice/tree/master/0792-binary-search) |
 | [1127-last-stone-weight](https://github.com/MohitKhera/LeetCodePractice/tree/master/1127-last-stone-weight) |
@@ -62,6 +63,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0020-valid-parentheses](https://github.com/MohitKhera/LeetCodePractice/tree/master/0020-valid-parentheses) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/MohitKhera/LeetCodePractice/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0155-min-stack](https://github.com/MohitKhera/LeetCodePractice/tree/master/0155-min-stack) |
+| [0739-daily-temperatures](https://github.com/MohitKhera/LeetCodePractice/tree/master/0739-daily-temperatures) |
 ## Linked List
 |  |
 | ------- |
@@ -186,4 +188,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0022-generate-parentheses](https://github.com/MohitKhera/LeetCodePractice/tree/master/0022-generate-parentheses) |
+## Monotonic Stack
+|  |
+| ------- |
+| [0739-daily-temperatures](https://github.com/MohitKhera/LeetCodePractice/tree/master/0739-daily-temperatures) |
 <!---LeetCode Topics End-->
