@@ -17,6 +17,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0150-evaluate-reverse-polish-notation](https://github.com/MohitKhera/LeetCodePractice/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0217-contains-duplicate](https://github.com/MohitKhera/LeetCodePractice/tree/master/0217-contains-duplicate) |
 | [0238-product-of-array-except-self](https://github.com/MohitKhera/LeetCodePractice/tree/master/0238-product-of-array-except-self) |
+| [0287-find-the-duplicate-number](https://github.com/MohitKhera/LeetCodePractice/tree/master/0287-find-the-duplicate-number) |
 | [0347-top-k-frequent-elements](https://github.com/MohitKhera/LeetCodePractice/tree/master/0347-top-k-frequent-elements) |
 | [0739-daily-temperatures](https://github.com/MohitKhera/LeetCodePractice/tree/master/0739-daily-temperatures) |
 | [0747-min-cost-climbing-stairs](https://github.com/MohitKhera/LeetCodePractice/tree/master/0747-min-cost-climbing-stairs) |
@@ -53,6 +54,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0125-valid-palindrome](https://github.com/MohitKhera/LeetCodePractice/tree/master/0125-valid-palindrome) |
 | [0141-linked-list-cycle](https://github.com/MohitKhera/LeetCodePractice/tree/master/0141-linked-list-cycle) |
 | [0143-reorder-list](https://github.com/MohitKhera/LeetCodePractice/tree/master/0143-reorder-list) |
+| [0287-find-the-duplicate-number](https://github.com/MohitKhera/LeetCodePractice/tree/master/0287-find-the-duplicate-number) |
 ## Simulation
 |  |
 | ------- |
@@ -102,6 +104,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0074-search-a-2d-matrix](https://github.com/MohitKhera/LeetCodePractice/tree/master/0074-search-a-2d-matrix) |
+| [0287-find-the-duplicate-number](https://github.com/MohitKhera/LeetCodePractice/tree/master/0287-find-the-duplicate-number) |
 | [0792-binary-search](https://github.com/MohitKhera/LeetCodePractice/tree/master/0792-binary-search) |
 ## Tree
 |  |
@@ -213,4 +216,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0739-daily-temperatures](https://github.com/MohitKhera/LeetCodePractice/tree/master/0739-daily-temperatures) |
 | [0883-car-fleet](https://github.com/MohitKhera/LeetCodePractice/tree/master/0883-car-fleet) |
+## Bit Manipulation
+|  |
+| ------- |
+| [0287-find-the-duplicate-number](https://github.com/MohitKhera/LeetCodePractice/tree/master/0287-find-the-duplicate-number) |
 <!---LeetCode Topics End-->
