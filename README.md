@@ -30,6 +30,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0792-binary-search](https://github.com/MohitKhera/LeetCodePractice/tree/master/0792-binary-search) |
 | [0883-car-fleet](https://github.com/MohitKhera/LeetCodePractice/tree/master/0883-car-fleet) |
 | [0907-koko-eating-bananas](https://github.com/MohitKhera/LeetCodePractice/tree/master/0907-koko-eating-bananas) |
+| [1014-k-closest-points-to-origin](https://github.com/MohitKhera/LeetCodePractice/tree/master/1014-k-closest-points-to-origin) |
 | [1127-last-stone-weight](https://github.com/MohitKhera/LeetCodePractice/tree/master/1127-last-stone-weight) |
 | [2058-concatenation-of-array](https://github.com/MohitKhera/LeetCodePractice/tree/master/2058-concatenation-of-array) |
 ## Hash Table
@@ -58,6 +59,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0242-valid-anagram](https://github.com/MohitKhera/LeetCodePractice/tree/master/0242-valid-anagram) |
 | [0347-top-k-frequent-elements](https://github.com/MohitKhera/LeetCodePractice/tree/master/0347-top-k-frequent-elements) |
 | [0883-car-fleet](https://github.com/MohitKhera/LeetCodePractice/tree/master/0883-car-fleet) |
+| [1014-k-closest-points-to-origin](https://github.com/MohitKhera/LeetCodePractice/tree/master/1014-k-closest-points-to-origin) |
 ## Two Pointers
 |  |
 | ------- |
@@ -214,6 +216,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0347-top-k-frequent-elements](https://github.com/MohitKhera/LeetCodePractice/tree/master/0347-top-k-frequent-elements) |
 | [0789-kth-largest-element-in-a-stream](https://github.com/MohitKhera/LeetCodePractice/tree/master/0789-kth-largest-element-in-a-stream) |
+| [1014-k-closest-points-to-origin](https://github.com/MohitKhera/LeetCodePractice/tree/master/1014-k-closest-points-to-origin) |
 | [1127-last-stone-weight](https://github.com/MohitKhera/LeetCodePractice/tree/master/1127-last-stone-weight) |
 ## Data Stream
 |  |
@@ -225,6 +228,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0002-add-two-numbers](https://github.com/MohitKhera/LeetCodePractice/tree/master/0002-add-two-numbers) |
 | [0070-climbing-stairs](https://github.com/MohitKhera/LeetCodePractice/tree/master/0070-climbing-stairs) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/MohitKhera/LeetCodePractice/tree/master/0150-evaluate-reverse-polish-notation) |
+| [1014-k-closest-points-to-origin](https://github.com/MohitKhera/LeetCodePractice/tree/master/1014-k-closest-points-to-origin) |
 ## Memoization
 |  |
 | ------- |
@@ -234,6 +238,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/MohitKhera/LeetCodePractice/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0347-top-k-frequent-elements](https://github.com/MohitKhera/LeetCodePractice/tree/master/0347-top-k-frequent-elements) |
+| [1014-k-closest-points-to-origin](https://github.com/MohitKhera/LeetCodePractice/tree/master/1014-k-closest-points-to-origin) |
 ## Bucket Sort
 |  |
 | ------- |
@@ -246,6 +251,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0347-top-k-frequent-elements](https://github.com/MohitKhera/LeetCodePractice/tree/master/0347-top-k-frequent-elements) |
+| [1014-k-closest-points-to-origin](https://github.com/MohitKhera/LeetCodePractice/tree/master/1014-k-closest-points-to-origin) |
 ## Prefix Sum
 |  |
 | ------- |
@@ -286,4 +292,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0003-longest-substring-without-repeating-characters](https://github.com/MohitKhera/LeetCodePractice/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0424-longest-repeating-character-replacement](https://github.com/MohitKhera/LeetCodePractice/tree/master/0424-longest-repeating-character-replacement) |
 | [0567-permutation-in-string](https://github.com/MohitKhera/LeetCodePractice/tree/master/0567-permutation-in-string) |
+## Geometry
+|  |
+| ------- |
+| [1014-k-closest-points-to-origin](https://github.com/MohitKhera/LeetCodePractice/tree/master/1014-k-closest-points-to-origin) |
 <!---LeetCode Topics End-->
