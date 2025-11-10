@@ -25,6 +25,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0238-product-of-array-except-self](https://github.com/MohitKhera/LeetCodePractice/tree/master/0238-product-of-array-except-self) |
 | [0287-find-the-duplicate-number](https://github.com/MohitKhera/LeetCodePractice/tree/master/0287-find-the-duplicate-number) |
 | [0347-top-k-frequent-elements](https://github.com/MohitKhera/LeetCodePractice/tree/master/0347-top-k-frequent-elements) |
+| [0621-task-scheduler](https://github.com/MohitKhera/LeetCodePractice/tree/master/0621-task-scheduler) |
 | [0739-daily-temperatures](https://github.com/MohitKhera/LeetCodePractice/tree/master/0739-daily-temperatures) |
 | [0747-min-cost-climbing-stairs](https://github.com/MohitKhera/LeetCodePractice/tree/master/0747-min-cost-climbing-stairs) |
 | [0792-binary-search](https://github.com/MohitKhera/LeetCodePractice/tree/master/0792-binary-search) |
@@ -50,6 +51,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0347-top-k-frequent-elements](https://github.com/MohitKhera/LeetCodePractice/tree/master/0347-top-k-frequent-elements) |
 | [0424-longest-repeating-character-replacement](https://github.com/MohitKhera/LeetCodePractice/tree/master/0424-longest-repeating-character-replacement) |
 | [0567-permutation-in-string](https://github.com/MohitKhera/LeetCodePractice/tree/master/0567-permutation-in-string) |
+| [0621-task-scheduler](https://github.com/MohitKhera/LeetCodePractice/tree/master/0621-task-scheduler) |
 ## Sorting
 |  |
 | ------- |
@@ -58,6 +60,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0217-contains-duplicate](https://github.com/MohitKhera/LeetCodePractice/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/MohitKhera/LeetCodePractice/tree/master/0242-valid-anagram) |
 | [0347-top-k-frequent-elements](https://github.com/MohitKhera/LeetCodePractice/tree/master/0347-top-k-frequent-elements) |
+| [0621-task-scheduler](https://github.com/MohitKhera/LeetCodePractice/tree/master/0621-task-scheduler) |
 | [0883-car-fleet](https://github.com/MohitKhera/LeetCodePractice/tree/master/0883-car-fleet) |
 | [1014-k-closest-points-to-origin](https://github.com/MohitKhera/LeetCodePractice/tree/master/1014-k-closest-points-to-origin) |
 ## Two Pointers
@@ -215,6 +218,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0347-top-k-frequent-elements](https://github.com/MohitKhera/LeetCodePractice/tree/master/0347-top-k-frequent-elements) |
+| [0621-task-scheduler](https://github.com/MohitKhera/LeetCodePractice/tree/master/0621-task-scheduler) |
 | [0789-kth-largest-element-in-a-stream](https://github.com/MohitKhera/LeetCodePractice/tree/master/0789-kth-largest-element-in-a-stream) |
 | [1014-k-closest-points-to-origin](https://github.com/MohitKhera/LeetCodePractice/tree/master/1014-k-closest-points-to-origin) |
 | [1127-last-stone-weight](https://github.com/MohitKhera/LeetCodePractice/tree/master/1127-last-stone-weight) |
@@ -247,6 +251,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0347-top-k-frequent-elements](https://github.com/MohitKhera/LeetCodePractice/tree/master/0347-top-k-frequent-elements) |
+| [0621-task-scheduler](https://github.com/MohitKhera/LeetCodePractice/tree/master/0621-task-scheduler) |
 ## Quickselect
 |  |
 | ------- |
@@ -286,6 +291,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0011-container-with-most-water](https://github.com/MohitKhera/LeetCodePractice/tree/master/0011-container-with-most-water) |
+| [0621-task-scheduler](https://github.com/MohitKhera/LeetCodePractice/tree/master/0621-task-scheduler) |
 ## Sliding Window
 |  |
 | ------- |
