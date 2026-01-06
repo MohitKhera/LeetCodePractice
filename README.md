@@ -33,6 +33,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0792-binary-search](https://github.com/MohitKhera/LeetCodePractice/tree/master/0792-binary-search) |
 | [0883-car-fleet](https://github.com/MohitKhera/LeetCodePractice/tree/master/0883-car-fleet) |
 | [0907-koko-eating-bananas](https://github.com/MohitKhera/LeetCodePractice/tree/master/0907-koko-eating-bananas) |
+| [0994-rotting-oranges](https://github.com/MohitKhera/LeetCodePractice/tree/master/0994-rotting-oranges) |
 | [1014-k-closest-points-to-origin](https://github.com/MohitKhera/LeetCodePractice/tree/master/1014-k-closest-points-to-origin) |
 | [1127-last-stone-weight](https://github.com/MohitKhera/LeetCodePractice/tree/master/1127-last-stone-weight) |
 | [2058-concatenation-of-array](https://github.com/MohitKhera/LeetCodePractice/tree/master/2058-concatenation-of-array) |
@@ -186,6 +187,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0200-number-of-islands](https://github.com/MohitKhera/LeetCodePractice/tree/master/0200-number-of-islands) |
 | [0226-invert-binary-tree](https://github.com/MohitKhera/LeetCodePractice/tree/master/0226-invert-binary-tree) |
 | [0695-max-area-of-island](https://github.com/MohitKhera/LeetCodePractice/tree/master/0695-max-area-of-island) |
+| [0994-rotting-oranges](https://github.com/MohitKhera/LeetCodePractice/tree/master/0994-rotting-oranges) |
 | [1544-count-good-nodes-in-binary-tree](https://github.com/MohitKhera/LeetCodePractice/tree/master/1544-count-good-nodes-in-binary-tree) |
 ## Binary Tree
 |  |
@@ -281,6 +283,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0074-search-a-2d-matrix](https://github.com/MohitKhera/LeetCodePractice/tree/master/0074-search-a-2d-matrix) |
 | [0200-number-of-islands](https://github.com/MohitKhera/LeetCodePractice/tree/master/0200-number-of-islands) |
 | [0695-max-area-of-island](https://github.com/MohitKhera/LeetCodePractice/tree/master/0695-max-area-of-island) |
+| [0994-rotting-oranges](https://github.com/MohitKhera/LeetCodePractice/tree/master/0994-rotting-oranges) |
 ## Union Find
 |  |
 | ------- |
