@@ -18,7 +18,7 @@ class Solution:
 
         for i in edges:
             visited.clear()
-            if dfs(i[1], i[0], -1):
+            if dfs(i[0], i[1], -1):
                 return i
             else:
                 connections[i[0]].append(i[1])
