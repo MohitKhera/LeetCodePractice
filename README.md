@@ -101,6 +101,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0049-group-anagrams](https://github.com/MohitKhera/LeetCodePractice/tree/master/0049-group-anagrams) |
 | [0079-word-search](https://github.com/MohitKhera/LeetCodePractice/tree/master/0079-word-search) |
 | [0125-valid-palindrome](https://github.com/MohitKhera/LeetCodePractice/tree/master/0125-valid-palindrome) |
+| [0131-palindrome-partitioning](https://github.com/MohitKhera/LeetCodePractice/tree/master/0131-palindrome-partitioning) |
 | [0242-valid-anagram](https://github.com/MohitKhera/LeetCodePractice/tree/master/0242-valid-anagram) |
 | [0424-longest-repeating-character-replacement](https://github.com/MohitKhera/LeetCodePractice/tree/master/0424-longest-repeating-character-replacement) |
 | [0567-permutation-in-string](https://github.com/MohitKhera/LeetCodePractice/tree/master/0567-permutation-in-string) |
@@ -138,6 +139,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0022-generate-parentheses](https://github.com/MohitKhera/LeetCodePractice/tree/master/0022-generate-parentheses) |
 | [0070-climbing-stairs](https://github.com/MohitKhera/LeetCodePractice/tree/master/0070-climbing-stairs) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/MohitKhera/LeetCodePractice/tree/master/0121-best-time-to-buy-and-sell-stock) |
+| [0131-palindrome-partitioning](https://github.com/MohitKhera/LeetCodePractice/tree/master/0131-palindrome-partitioning) |
 | [0747-min-cost-climbing-stairs](https://github.com/MohitKhera/LeetCodePractice/tree/master/0747-min-cost-climbing-stairs) |
 ## Binary Search
 |  |
@@ -324,6 +326,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0040-combination-sum-ii](https://github.com/MohitKhera/LeetCodePractice/tree/master/0040-combination-sum-ii) |
 | [0046-permutations](https://github.com/MohitKhera/LeetCodePractice/tree/master/0046-permutations) |
 | [0079-word-search](https://github.com/MohitKhera/LeetCodePractice/tree/master/0079-word-search) |
+| [0131-palindrome-partitioning](https://github.com/MohitKhera/LeetCodePractice/tree/master/0131-palindrome-partitioning) |
 ## Monotonic Stack
 |  |
 | ------- |
