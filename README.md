@@ -23,6 +23,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/MohitKhera/LeetCodePractice/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0128-longest-consecutive-sequence](https://github.com/MohitKhera/LeetCodePractice/tree/master/0128-longest-consecutive-sequence) |
 | [0130-surrounded-regions](https://github.com/MohitKhera/LeetCodePractice/tree/master/0130-surrounded-regions) |
+| [0139-word-break](https://github.com/MohitKhera/LeetCodePractice/tree/master/0139-word-break) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/MohitKhera/LeetCodePractice/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0152-maximum-product-subarray](https://github.com/MohitKhera/LeetCodePractice/tree/master/0152-maximum-product-subarray) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/MohitKhera/LeetCodePractice/tree/master/0153-find-minimum-in-rotated-sorted-array) |
@@ -60,6 +61,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0128-longest-consecutive-sequence](https://github.com/MohitKhera/LeetCodePractice/tree/master/0128-longest-consecutive-sequence) |
 | [0133-clone-graph](https://github.com/MohitKhera/LeetCodePractice/tree/master/0133-clone-graph) |
 | [0138-copy-list-with-random-pointer](https://github.com/MohitKhera/LeetCodePractice/tree/master/0138-copy-list-with-random-pointer) |
+| [0139-word-break](https://github.com/MohitKhera/LeetCodePractice/tree/master/0139-word-break) |
 | [0141-linked-list-cycle](https://github.com/MohitKhera/LeetCodePractice/tree/master/0141-linked-list-cycle) |
 | [0146-lru-cache](https://github.com/MohitKhera/LeetCodePractice/tree/master/0146-lru-cache) |
 | [0217-contains-duplicate](https://github.com/MohitKhera/LeetCodePractice/tree/master/0217-contains-duplicate) |
@@ -113,6 +115,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0091-decode-ways](https://github.com/MohitKhera/LeetCodePractice/tree/master/0091-decode-ways) |
 | [0125-valid-palindrome](https://github.com/MohitKhera/LeetCodePractice/tree/master/0125-valid-palindrome) |
 | [0131-palindrome-partitioning](https://github.com/MohitKhera/LeetCodePractice/tree/master/0131-palindrome-partitioning) |
+| [0139-word-break](https://github.com/MohitKhera/LeetCodePractice/tree/master/0139-word-break) |
 | [0242-valid-anagram](https://github.com/MohitKhera/LeetCodePractice/tree/master/0242-valid-anagram) |
 | [0424-longest-repeating-character-replacement](https://github.com/MohitKhera/LeetCodePractice/tree/master/0424-longest-repeating-character-replacement) |
 | [0567-permutation-in-string](https://github.com/MohitKhera/LeetCodePractice/tree/master/0567-permutation-in-string) |
@@ -154,6 +157,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0091-decode-ways](https://github.com/MohitKhera/LeetCodePractice/tree/master/0091-decode-ways) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/MohitKhera/LeetCodePractice/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0131-palindrome-partitioning](https://github.com/MohitKhera/LeetCodePractice/tree/master/0131-palindrome-partitioning) |
+| [0139-word-break](https://github.com/MohitKhera/LeetCodePractice/tree/master/0139-word-break) |
 | [0152-maximum-product-subarray](https://github.com/MohitKhera/LeetCodePractice/tree/master/0152-maximum-product-subarray) |
 | [0198-house-robber](https://github.com/MohitKhera/LeetCodePractice/tree/master/0198-house-robber) |
 | [0213-house-robber-ii](https://github.com/MohitKhera/LeetCodePractice/tree/master/0213-house-robber-ii) |
@@ -296,6 +300,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0070-climbing-stairs](https://github.com/MohitKhera/LeetCodePractice/tree/master/0070-climbing-stairs) |
+| [0139-word-break](https://github.com/MohitKhera/LeetCodePractice/tree/master/0139-word-break) |
 ## Divide and Conquer
 |  |
 | ------- |
@@ -394,4 +399,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0743-network-delay-time](https://github.com/MohitKhera/LeetCodePractice/tree/master/0743-network-delay-time) |
+## Trie
+|  |
+| ------- |
+| [0139-word-break](https://github.com/MohitKhera/LeetCodePractice/tree/master/0139-word-break) |
+## Brute-Force Search
+|  |
+| ------- |
+| [0139-word-break](https://github.com/MohitKhera/LeetCodePractice/tree/master/0139-word-break) |
 <!---LeetCode Topics End-->
