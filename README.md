@@ -24,6 +24,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0128-longest-consecutive-sequence](https://github.com/MohitKhera/LeetCodePractice/tree/master/0128-longest-consecutive-sequence) |
 | [0130-surrounded-regions](https://github.com/MohitKhera/LeetCodePractice/tree/master/0130-surrounded-regions) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/MohitKhera/LeetCodePractice/tree/master/0150-evaluate-reverse-polish-notation) |
+| [0152-maximum-product-subarray](https://github.com/MohitKhera/LeetCodePractice/tree/master/0152-maximum-product-subarray) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/MohitKhera/LeetCodePractice/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/MohitKhera/LeetCodePractice/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0198-house-robber](https://github.com/MohitKhera/LeetCodePractice/tree/master/0198-house-robber) |
@@ -153,6 +154,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0091-decode-ways](https://github.com/MohitKhera/LeetCodePractice/tree/master/0091-decode-ways) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/MohitKhera/LeetCodePractice/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0131-palindrome-partitioning](https://github.com/MohitKhera/LeetCodePractice/tree/master/0131-palindrome-partitioning) |
+| [0152-maximum-product-subarray](https://github.com/MohitKhera/LeetCodePractice/tree/master/0152-maximum-product-subarray) |
 | [0198-house-robber](https://github.com/MohitKhera/LeetCodePractice/tree/master/0198-house-robber) |
 | [0213-house-robber-ii](https://github.com/MohitKhera/LeetCodePractice/tree/master/0213-house-robber-ii) |
 | [0322-coin-change](https://github.com/MohitKhera/LeetCodePractice/tree/master/0322-coin-change) |
