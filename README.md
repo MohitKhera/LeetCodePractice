@@ -18,6 +18,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0046-permutations](https://github.com/MohitKhera/LeetCodePractice/tree/master/0046-permutations) |
 | [0049-group-anagrams](https://github.com/MohitKhera/LeetCodePractice/tree/master/0049-group-anagrams) |
 | [0053-maximum-subarray](https://github.com/MohitKhera/LeetCodePractice/tree/master/0053-maximum-subarray) |
+| [0055-jump-game](https://github.com/MohitKhera/LeetCodePractice/tree/master/0055-jump-game) |
 | [0074-search-a-2d-matrix](https://github.com/MohitKhera/LeetCodePractice/tree/master/0074-search-a-2d-matrix) |
 | [0079-word-search](https://github.com/MohitKhera/LeetCodePractice/tree/master/0079-word-search) |
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/MohitKhera/LeetCodePractice/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
@@ -157,6 +158,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0005-longest-palindromic-substring](https://github.com/MohitKhera/LeetCodePractice/tree/master/0005-longest-palindromic-substring) |
 | [0022-generate-parentheses](https://github.com/MohitKhera/LeetCodePractice/tree/master/0022-generate-parentheses) |
 | [0053-maximum-subarray](https://github.com/MohitKhera/LeetCodePractice/tree/master/0053-maximum-subarray) |
+| [0055-jump-game](https://github.com/MohitKhera/LeetCodePractice/tree/master/0055-jump-game) |
 | [0070-climbing-stairs](https://github.com/MohitKhera/LeetCodePractice/tree/master/0070-climbing-stairs) |
 | [0091-decode-ways](https://github.com/MohitKhera/LeetCodePractice/tree/master/0091-decode-ways) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/MohitKhera/LeetCodePractice/tree/master/0121-best-time-to-buy-and-sell-stock) |
@@ -379,6 +381,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0011-container-with-most-water](https://github.com/MohitKhera/LeetCodePractice/tree/master/0011-container-with-most-water) |
+| [0055-jump-game](https://github.com/MohitKhera/LeetCodePractice/tree/master/0055-jump-game) |
 | [0621-task-scheduler](https://github.com/MohitKhera/LeetCodePractice/tree/master/0621-task-scheduler) |
 ## Sliding Window
 |  |
