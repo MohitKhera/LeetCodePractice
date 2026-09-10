@@ -55,6 +55,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0994-rotting-oranges](https://github.com/MohitKhera/LeetCodePractice/tree/master/0994-rotting-oranges) |
 | [1014-k-closest-points-to-origin](https://github.com/MohitKhera/LeetCodePractice/tree/master/1014-k-closest-points-to-origin) |
 | [1127-last-stone-weight](https://github.com/MohitKhera/LeetCodePractice/tree/master/1127-last-stone-weight) |
+| [1899-merge-triplets-to-form-target-triplet](https://github.com/MohitKhera/LeetCodePractice/tree/master/1899-merge-triplets-to-form-target-triplet) |
 | [2058-concatenation-of-array](https://github.com/MohitKhera/LeetCodePractice/tree/master/2058-concatenation-of-array) |
 ## Hash Table
 |  |
@@ -392,6 +393,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0134-gas-station](https://github.com/MohitKhera/LeetCodePractice/tree/master/0134-gas-station) |
 | [0621-task-scheduler](https://github.com/MohitKhera/LeetCodePractice/tree/master/0621-task-scheduler) |
 | [0846-hand-of-straights](https://github.com/MohitKhera/LeetCodePractice/tree/master/0846-hand-of-straights) |
+| [1899-merge-triplets-to-form-target-triplet](https://github.com/MohitKhera/LeetCodePractice/tree/master/1899-merge-triplets-to-form-target-triplet) |
 ## Sliding Window
 |  |
 | ------- |
