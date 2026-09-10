@@ -79,6 +79,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0424-longest-repeating-character-replacement](https://github.com/MohitKhera/LeetCodePractice/tree/master/0424-longest-repeating-character-replacement) |
 | [0567-permutation-in-string](https://github.com/MohitKhera/LeetCodePractice/tree/master/0567-permutation-in-string) |
 | [0621-task-scheduler](https://github.com/MohitKhera/LeetCodePractice/tree/master/0621-task-scheduler) |
+| [0763-partition-labels](https://github.com/MohitKhera/LeetCodePractice/tree/master/0763-partition-labels) |
 | [0846-hand-of-straights](https://github.com/MohitKhera/LeetCodePractice/tree/master/0846-hand-of-straights) |
 ## Sorting
 |  |
@@ -108,6 +109,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0287-find-the-duplicate-number](https://github.com/MohitKhera/LeetCodePractice/tree/master/0287-find-the-duplicate-number) |
 | [0567-permutation-in-string](https://github.com/MohitKhera/LeetCodePractice/tree/master/0567-permutation-in-string) |
 | [0647-palindromic-substrings](https://github.com/MohitKhera/LeetCodePractice/tree/master/0647-palindromic-substrings) |
+| [0763-partition-labels](https://github.com/MohitKhera/LeetCodePractice/tree/master/0763-partition-labels) |
 ## Simulation
 |  |
 | ------- |
@@ -130,6 +132,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0424-longest-repeating-character-replacement](https://github.com/MohitKhera/LeetCodePractice/tree/master/0424-longest-repeating-character-replacement) |
 | [0567-permutation-in-string](https://github.com/MohitKhera/LeetCodePractice/tree/master/0567-permutation-in-string) |
 | [0647-palindromic-substrings](https://github.com/MohitKhera/LeetCodePractice/tree/master/0647-palindromic-substrings) |
+| [0763-partition-labels](https://github.com/MohitKhera/LeetCodePractice/tree/master/0763-partition-labels) |
 ## Stack
 |  |
 | ------- |
@@ -392,6 +395,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0055-jump-game](https://github.com/MohitKhera/LeetCodePractice/tree/master/0055-jump-game) |
 | [0134-gas-station](https://github.com/MohitKhera/LeetCodePractice/tree/master/0134-gas-station) |
 | [0621-task-scheduler](https://github.com/MohitKhera/LeetCodePractice/tree/master/0621-task-scheduler) |
+| [0763-partition-labels](https://github.com/MohitKhera/LeetCodePractice/tree/master/0763-partition-labels) |
 | [0846-hand-of-straights](https://github.com/MohitKhera/LeetCodePractice/tree/master/0846-hand-of-straights) |
 | [1899-merge-triplets-to-form-target-triplet](https://github.com/MohitKhera/LeetCodePractice/tree/master/1899-merge-triplets-to-form-target-triplet) |
 ## Sliding Window
