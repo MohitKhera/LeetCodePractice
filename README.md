@@ -132,6 +132,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0424-longest-repeating-character-replacement](https://github.com/MohitKhera/LeetCodePractice/tree/master/0424-longest-repeating-character-replacement) |
 | [0567-permutation-in-string](https://github.com/MohitKhera/LeetCodePractice/tree/master/0567-permutation-in-string) |
 | [0647-palindromic-substrings](https://github.com/MohitKhera/LeetCodePractice/tree/master/0647-palindromic-substrings) |
+| [0678-valid-parenthesis-string](https://github.com/MohitKhera/LeetCodePractice/tree/master/0678-valid-parenthesis-string) |
 | [0763-partition-labels](https://github.com/MohitKhera/LeetCodePractice/tree/master/0763-partition-labels) |
 ## Stack
 |  |
@@ -140,6 +141,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0143-reorder-list](https://github.com/MohitKhera/LeetCodePractice/tree/master/0143-reorder-list) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/MohitKhera/LeetCodePractice/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0155-min-stack](https://github.com/MohitKhera/LeetCodePractice/tree/master/0155-min-stack) |
+| [0678-valid-parenthesis-string](https://github.com/MohitKhera/LeetCodePractice/tree/master/0678-valid-parenthesis-string) |
 | [0739-daily-temperatures](https://github.com/MohitKhera/LeetCodePractice/tree/master/0739-daily-temperatures) |
 | [0883-car-fleet](https://github.com/MohitKhera/LeetCodePractice/tree/master/0883-car-fleet) |
 ## Linked List
@@ -181,6 +183,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0322-coin-change](https://github.com/MohitKhera/LeetCodePractice/tree/master/0322-coin-change) |
 | [0416-partition-equal-subset-sum](https://github.com/MohitKhera/LeetCodePractice/tree/master/0416-partition-equal-subset-sum) |
 | [0647-palindromic-substrings](https://github.com/MohitKhera/LeetCodePractice/tree/master/0647-palindromic-substrings) |
+| [0678-valid-parenthesis-string](https://github.com/MohitKhera/LeetCodePractice/tree/master/0678-valid-parenthesis-string) |
 | [0746-min-cost-climbing-stairs](https://github.com/MohitKhera/LeetCodePractice/tree/master/0746-min-cost-climbing-stairs) |
 | [0747-min-cost-climbing-stairs](https://github.com/MohitKhera/LeetCodePractice/tree/master/0747-min-cost-climbing-stairs) |
 ## Binary Search
@@ -395,6 +398,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0055-jump-game](https://github.com/MohitKhera/LeetCodePractice/tree/master/0055-jump-game) |
 | [0134-gas-station](https://github.com/MohitKhera/LeetCodePractice/tree/master/0134-gas-station) |
 | [0621-task-scheduler](https://github.com/MohitKhera/LeetCodePractice/tree/master/0621-task-scheduler) |
+| [0678-valid-parenthesis-string](https://github.com/MohitKhera/LeetCodePractice/tree/master/0678-valid-parenthesis-string) |
 | [0763-partition-labels](https://github.com/MohitKhera/LeetCodePractice/tree/master/0763-partition-labels) |
 | [0846-hand-of-straights](https://github.com/MohitKhera/LeetCodePractice/tree/master/0846-hand-of-straights) |
 | [1899-merge-triplets-to-form-target-triplet](https://github.com/MohitKhera/LeetCodePractice/tree/master/1899-merge-triplets-to-form-target-triplet) |
@@ -445,4 +449,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0416-partition-equal-subset-sum](https://github.com/MohitKhera/LeetCodePractice/tree/master/0416-partition-equal-subset-sum) |
+## Bracket Sequences
+|  |
+| ------- |
+| [0678-valid-parenthesis-string](https://github.com/MohitKhera/LeetCodePractice/tree/master/0678-valid-parenthesis-string) |
 <!---LeetCode Topics End-->
