@@ -45,6 +45,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0347-top-k-frequent-elements](https://github.com/MohitKhera/LeetCodePractice/tree/master/0347-top-k-frequent-elements) |
 | [0416-partition-equal-subset-sum](https://github.com/MohitKhera/LeetCodePractice/tree/master/0416-partition-equal-subset-sum) |
 | [0417-pacific-atlantic-water-flow](https://github.com/MohitKhera/LeetCodePractice/tree/master/0417-pacific-atlantic-water-flow) |
+| [0435-non-overlapping-intervals](https://github.com/MohitKhera/LeetCodePractice/tree/master/0435-non-overlapping-intervals) |
 | [0621-task-scheduler](https://github.com/MohitKhera/LeetCodePractice/tree/master/0621-task-scheduler) |
 | [0695-max-area-of-island](https://github.com/MohitKhera/LeetCodePractice/tree/master/0695-max-area-of-island) |
 | [0739-daily-temperatures](https://github.com/MohitKhera/LeetCodePractice/tree/master/0739-daily-temperatures) |
@@ -92,6 +93,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0217-contains-duplicate](https://github.com/MohitKhera/LeetCodePractice/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/MohitKhera/LeetCodePractice/tree/master/0242-valid-anagram) |
 | [0347-top-k-frequent-elements](https://github.com/MohitKhera/LeetCodePractice/tree/master/0347-top-k-frequent-elements) |
+| [0435-non-overlapping-intervals](https://github.com/MohitKhera/LeetCodePractice/tree/master/0435-non-overlapping-intervals) |
 | [0621-task-scheduler](https://github.com/MohitKhera/LeetCodePractice/tree/master/0621-task-scheduler) |
 | [0846-hand-of-straights](https://github.com/MohitKhera/LeetCodePractice/tree/master/0846-hand-of-straights) |
 | [0883-car-fleet](https://github.com/MohitKhera/LeetCodePractice/tree/master/0883-car-fleet) |
@@ -185,6 +187,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0300-longest-increasing-subsequence](https://github.com/MohitKhera/LeetCodePractice/tree/master/0300-longest-increasing-subsequence) |
 | [0322-coin-change](https://github.com/MohitKhera/LeetCodePractice/tree/master/0322-coin-change) |
 | [0416-partition-equal-subset-sum](https://github.com/MohitKhera/LeetCodePractice/tree/master/0416-partition-equal-subset-sum) |
+| [0435-non-overlapping-intervals](https://github.com/MohitKhera/LeetCodePractice/tree/master/0435-non-overlapping-intervals) |
 | [0647-palindromic-substrings](https://github.com/MohitKhera/LeetCodePractice/tree/master/0647-palindromic-substrings) |
 | [0678-valid-parenthesis-string](https://github.com/MohitKhera/LeetCodePractice/tree/master/0678-valid-parenthesis-string) |
 | [0746-min-cost-climbing-stairs](https://github.com/MohitKhera/LeetCodePractice/tree/master/0746-min-cost-climbing-stairs) |
@@ -400,6 +403,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0045-jump-game-ii](https://github.com/MohitKhera/LeetCodePractice/tree/master/0045-jump-game-ii) |
 | [0055-jump-game](https://github.com/MohitKhera/LeetCodePractice/tree/master/0055-jump-game) |
 | [0134-gas-station](https://github.com/MohitKhera/LeetCodePractice/tree/master/0134-gas-station) |
+| [0435-non-overlapping-intervals](https://github.com/MohitKhera/LeetCodePractice/tree/master/0435-non-overlapping-intervals) |
 | [0621-task-scheduler](https://github.com/MohitKhera/LeetCodePractice/tree/master/0621-task-scheduler) |
 | [0678-valid-parenthesis-string](https://github.com/MohitKhera/LeetCodePractice/tree/master/0678-valid-parenthesis-string) |
 | [0763-partition-labels](https://github.com/MohitKhera/LeetCodePractice/tree/master/0763-partition-labels) |
