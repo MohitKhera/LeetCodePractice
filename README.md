@@ -49,6 +49,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0435-non-overlapping-intervals](https://github.com/MohitKhera/LeetCodePractice/tree/master/0435-non-overlapping-intervals) |
 | [0621-task-scheduler](https://github.com/MohitKhera/LeetCodePractice/tree/master/0621-task-scheduler) |
 | [0695-max-area-of-island](https://github.com/MohitKhera/LeetCodePractice/tree/master/0695-max-area-of-island) |
+| [0705-design-hashset](https://github.com/MohitKhera/LeetCodePractice/tree/master/0705-design-hashset) |
 | [0739-daily-temperatures](https://github.com/MohitKhera/LeetCodePractice/tree/master/0739-daily-temperatures) |
 | [0746-min-cost-climbing-stairs](https://github.com/MohitKhera/LeetCodePractice/tree/master/0746-min-cost-climbing-stairs) |
 | [0747-min-cost-climbing-stairs](https://github.com/MohitKhera/LeetCodePractice/tree/master/0747-min-cost-climbing-stairs) |
@@ -84,6 +85,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0424-longest-repeating-character-replacement](https://github.com/MohitKhera/LeetCodePractice/tree/master/0424-longest-repeating-character-replacement) |
 | [0567-permutation-in-string](https://github.com/MohitKhera/LeetCodePractice/tree/master/0567-permutation-in-string) |
 | [0621-task-scheduler](https://github.com/MohitKhera/LeetCodePractice/tree/master/0621-task-scheduler) |
+| [0705-design-hashset](https://github.com/MohitKhera/LeetCodePractice/tree/master/0705-design-hashset) |
 | [0763-partition-labels](https://github.com/MohitKhera/LeetCodePractice/tree/master/0763-partition-labels) |
 | [0846-hand-of-straights](https://github.com/MohitKhera/LeetCodePractice/tree/master/0846-hand-of-straights) |
 ## Sorting
@@ -164,6 +166,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0146-lru-cache](https://github.com/MohitKhera/LeetCodePractice/tree/master/0146-lru-cache) |
 | [0206-reverse-linked-list](https://github.com/MohitKhera/LeetCodePractice/tree/master/0206-reverse-linked-list) |
 | [0355-design-twitter](https://github.com/MohitKhera/LeetCodePractice/tree/master/0355-design-twitter) |
+| [0705-design-hashset](https://github.com/MohitKhera/LeetCodePractice/tree/master/0705-design-hashset) |
 ## Recursion
 |  |
 | ------- |
@@ -292,12 +295,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0572-subtree-of-another-tree](https://github.com/MohitKhera/LeetCodePractice/tree/master/0572-subtree-of-another-tree) |
+| [0705-design-hashset](https://github.com/MohitKhera/LeetCodePractice/tree/master/0705-design-hashset) |
 ## Design
 |  |
 | ------- |
 | [0146-lru-cache](https://github.com/MohitKhera/LeetCodePractice/tree/master/0146-lru-cache) |
 | [0155-min-stack](https://github.com/MohitKhera/LeetCodePractice/tree/master/0155-min-stack) |
 | [0355-design-twitter](https://github.com/MohitKhera/LeetCodePractice/tree/master/0355-design-twitter) |
+| [0705-design-hashset](https://github.com/MohitKhera/LeetCodePractice/tree/master/0705-design-hashset) |
 | [0789-kth-largest-element-in-a-stream](https://github.com/MohitKhera/LeetCodePractice/tree/master/0789-kth-largest-element-in-a-stream) |
 ## Binary Search Tree
 |  |
