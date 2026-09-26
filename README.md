@@ -17,6 +17,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0040-combination-sum-ii](https://github.com/MohitKhera/LeetCodePractice/tree/master/0040-combination-sum-ii) |
 | [0045-jump-game-ii](https://github.com/MohitKhera/LeetCodePractice/tree/master/0045-jump-game-ii) |
 | [0046-permutations](https://github.com/MohitKhera/LeetCodePractice/tree/master/0046-permutations) |
+| [0048-rotate-image](https://github.com/MohitKhera/LeetCodePractice/tree/master/0048-rotate-image) |
 | [0049-group-anagrams](https://github.com/MohitKhera/LeetCodePractice/tree/master/0049-group-anagrams) |
 | [0053-maximum-subarray](https://github.com/MohitKhera/LeetCodePractice/tree/master/0053-maximum-subarray) |
 | [0055-jump-game](https://github.com/MohitKhera/LeetCodePractice/tree/master/0055-jump-game) |
@@ -334,6 +335,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0002-add-two-numbers](https://github.com/MohitKhera/LeetCodePractice/tree/master/0002-add-two-numbers) |
+| [0048-rotate-image](https://github.com/MohitKhera/LeetCodePractice/tree/master/0048-rotate-image) |
 | [0070-climbing-stairs](https://github.com/MohitKhera/LeetCodePractice/tree/master/0070-climbing-stairs) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/MohitKhera/LeetCodePractice/tree/master/0150-evaluate-reverse-polish-notation) |
 | [1014-k-closest-points-to-origin](https://github.com/MohitKhera/LeetCodePractice/tree/master/1014-k-closest-points-to-origin) |
@@ -373,6 +375,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0036-valid-sudoku](https://github.com/MohitKhera/LeetCodePractice/tree/master/0036-valid-sudoku) |
+| [0048-rotate-image](https://github.com/MohitKhera/LeetCodePractice/tree/master/0048-rotate-image) |
 | [0074-search-a-2d-matrix](https://github.com/MohitKhera/LeetCodePractice/tree/master/0074-search-a-2d-matrix) |
 | [0079-word-search](https://github.com/MohitKhera/LeetCodePractice/tree/master/0079-word-search) |
 | [0130-surrounded-regions](https://github.com/MohitKhera/LeetCodePractice/tree/master/0130-surrounded-regions) |
