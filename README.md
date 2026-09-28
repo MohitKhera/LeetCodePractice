@@ -132,6 +132,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Simulation
 |  |
 | ------- |
+| [0043-multiply-strings](https://github.com/MohitKhera/LeetCodePractice/tree/master/0043-multiply-strings) |
 | [0054-spiral-matrix](https://github.com/MohitKhera/LeetCodePractice/tree/master/0054-spiral-matrix) |
 | [2058-concatenation-of-array](https://github.com/MohitKhera/LeetCodePractice/tree/master/2058-concatenation-of-array) |
 ## String
@@ -142,6 +143,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0017-letter-combinations-of-a-phone-number](https://github.com/MohitKhera/LeetCodePractice/tree/master/0017-letter-combinations-of-a-phone-number) |
 | [0020-valid-parentheses](https://github.com/MohitKhera/LeetCodePractice/tree/master/0020-valid-parentheses) |
 | [0022-generate-parentheses](https://github.com/MohitKhera/LeetCodePractice/tree/master/0022-generate-parentheses) |
+| [0043-multiply-strings](https://github.com/MohitKhera/LeetCodePractice/tree/master/0043-multiply-strings) |
 | [0049-group-anagrams](https://github.com/MohitKhera/LeetCodePractice/tree/master/0049-group-anagrams) |
 | [0079-word-search](https://github.com/MohitKhera/LeetCodePractice/tree/master/0079-word-search) |
 | [0091-decode-ways](https://github.com/MohitKhera/LeetCodePractice/tree/master/0091-decode-ways) |
@@ -343,6 +345,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0002-add-two-numbers](https://github.com/MohitKhera/LeetCodePractice/tree/master/0002-add-two-numbers) |
+| [0043-multiply-strings](https://github.com/MohitKhera/LeetCodePractice/tree/master/0043-multiply-strings) |
 | [0048-rotate-image](https://github.com/MohitKhera/LeetCodePractice/tree/master/0048-rotate-image) |
 | [0050-powx-n](https://github.com/MohitKhera/LeetCodePractice/tree/master/0050-powx-n) |
 | [0066-plus-one](https://github.com/MohitKhera/LeetCodePractice/tree/master/0066-plus-one) |
